@@ -46,6 +46,7 @@ steps:
     pip install django==1.9
     pip install django-imagekit
     pip install django-widget-tweaks
+    pip install django-crispy-forms
     pip install unittest-xml-reporting
   displayName: 'Install prerequisites'
 
