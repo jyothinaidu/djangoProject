@@ -44,6 +44,7 @@ steps:
     python -m pip install --upgrade pip setuptools wheel
     pip install -r requirements.txt
     pip install django==1.9
+    pip install Pillow
     pip install django-imagekit
     pip install django-widget-tweaks
     pip install django-crispy-forms
